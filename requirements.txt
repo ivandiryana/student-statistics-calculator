@@ -1,4 +1,6 @@
+streamlit
 pandas
 numpy
 matplotlib
 scipy
+openai>=1.0.0
