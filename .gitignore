@@ -1,4 +1,19 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
 .vscode/
+=======
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+>>>>>>> b216e19 (Remove sensitive files and add gitignore)
